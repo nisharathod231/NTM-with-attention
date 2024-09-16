@@ -30,7 +30,7 @@ We employ the attention mechanisms described in these papers to enhance the perf
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/date-translation-attention.git
+    git clone https://github.com/nisharathod231/NTM-with-attention.git
     cd date-translation-attention
     ```
     
